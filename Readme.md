@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Category.cs](./CS/WindowsFormsApp13/Category.cs) (VB: [Category.vb](./VB/WindowsFormsApp13/Category.vb))
+* [Customer.cs](./CS/WindowsFormsApp13/Customer.cs) (VB: [Customer.vb](./VB/WindowsFormsApp13/Customer.vb))
+* [Employee.cs](./CS/WindowsFormsApp13/Employee.cs) (VB: [Employee.vb](./VB/WindowsFormsApp13/Employee.vb))
+* [Form1.cs](./CS/WindowsFormsApp13/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApp13/Form1.vb))
+* [Invoice.cs](./CS/WindowsFormsApp13/Invoice.cs) (VB: [Invoice.vb](./VB/WindowsFormsApp13/Invoice.vb))
+* [Model1.cs](./CS/WindowsFormsApp13/Model1.cs) (VB: [Model1.vb](./VB/WindowsFormsApp13/Model1.vb))
+* [Order.cs](./CS/WindowsFormsApp13/Order.cs) (VB: [Order.vb](./VB/WindowsFormsApp13/Order.vb))
+* [Order_Detail.cs](./CS/WindowsFormsApp13/Order_Detail.cs) (VB: [Order_Detail.vb](./VB/WindowsFormsApp13/Order_Detail.vb))
+* [OrderReport.cs](./CS/WindowsFormsApp13/OrderReport.cs) (VB: [OrderReport.vb](./VB/WindowsFormsApp13/OrderReport.vb))
+* [Product.cs](./CS/WindowsFormsApp13/Product.cs) (VB: [Product.vb](./VB/WindowsFormsApp13/Product.vb))
+* [Program.cs](./CS/WindowsFormsApp13/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApp13/Program.vb))
+<!-- default file list end -->
 # How to filter Entity Framework data source tables
 
 
